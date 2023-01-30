@@ -1,0 +1,13 @@
+{
+  "main.css": "/video-streaming-app/static/css/main.b248875c.chunk.css",
+  "main.js": "/video-streaming-app/static/js/main.8ee32795.chunk.js",
+  "main.js.map": "/video-streaming-app/static/js/main.8ee32795.chunk.js.map",
+  "static/js/1.2497d976.chunk.js": "/video-streaming-app/static/js/1.2497d976.chunk.js",
+  "static/js/1.2497d976.chunk.js.map": "/video-streaming-app/static/js/1.2497d976.chunk.js.map",
+  "runtime~main.js": "/video-streaming-app/static/js/runtime~main.2622413b.js",
+  "runtime~main.js.map": "/video-streaming-app/static/js/runtime~main.2622413b.js.map",
+  "static/css/main.b248875c.chunk.css.map": "/video-streaming-app/static/css/main.b248875c.chunk.css.map",
+  "index.html": "/video-streaming-app/index.html",
+  "precache-manifest.a18b34dd872ac1a0d3a4a59c73a87e8c.js": "/video-streaming-app/precache-manifest.a18b34dd872ac1a0d3a4a59c73a87e8c.js",
+  "service-worker.js": "/video-streaming-app/service-worker.js"
+}
